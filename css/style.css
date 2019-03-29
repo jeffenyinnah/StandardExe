@@ -1,0 +1,35 @@
+.container-fluid{
+	padding: 0;
+	margin:0;
+	width: 500px;
+	max-height: auto;
+}
+h4{
+	font-weight: bold;
+	color: #4471c4;
+}
+
+p{
+	color:#4471c4; 
+}
+
+form {
+	width:400px;
+	clear: both;
+}
+form input{
+	width:70%;
+	clear: both;
+}
+.form-group input{
+	background-color: transparent;
+	border-radius: 0px;
+	border: 2px solid #4471c4;
+}
+
+#content{
+	align-content: right;
+	position: absolute;
+	margin-left: 550px;
+	padding: 20px;
+}
